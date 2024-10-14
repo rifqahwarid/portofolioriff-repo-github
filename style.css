@@ -1,0 +1,34 @@
+body {
+    min-height: 3000px;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #f5f5dc;
+}
+
+#gallery {
+    background-color: #f5f5dc;
+}
+
+.btn {
+    background-color: #f0e68c;
+    width: 150px;
+}
+
+.btn:hover {
+    background-color: rgb(202, 193, 108);
+    border-color: rgb(202, 193, 108);
+}
+
+footer {
+    background-color: #f0e68c;
+}
+
+a.text-dark {
+    text-decoration: none;
+}
+
+section {
+    padding-top: 5rem;
+}
